@@ -1,15 +1,14 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/katef/spectrum-demo/language-masters/en:/",
+    "/content/katef/spectrum-demo/language-masters/en/:/en/",
+    "/content/katef/spectrum-demo/configuration:/.helix/config.json",
+    "/content/katef/spectrum-demo/metadata:/metadata.json",
+    "/content/katef/spectrum-demo/redirects:/redirects.json",
+    "/content/katef/spectrum-demo/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/katef/spectrum-demo/",
+    "/content/dam/katef/spectrum-demo/"
   ]
 }
